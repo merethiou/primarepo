@@ -1,5 +1,1 @@
-
-
-
-
-print("HYYYYAAAAAAA")
+print("Hello")
